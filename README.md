@@ -144,7 +144,7 @@ O projeto usa GitHub Actions para CI/CD:
 
 ## 📄 Licença
 
-Este projeto está em desenvolvimento. Licença a ser definida.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
